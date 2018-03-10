@@ -1,4 +1,4 @@
-# roll62#EXTM3U
+#EXTM3U
 #EXTINF:-1,RTP 1 HD
 http://asdp.ddns.net:8000/live/adriano/adriano/470.ts
 #EXTINF:-1,RTP 2 HD
